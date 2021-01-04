@@ -74,7 +74,7 @@ We get the same Bank Marketing Dataset and define a pipeline with an automl step
 
 ## Screen Recording
 A screen recording of the project in action:
-https://youtu.be/0BTFvhw0jU8
+https://youtu.be/4J7Yn2MEuRE
 
 ## Standout Suggestions Attempted
 The project attempted to load-test the deployed model by utilizing the capabilities of Apache Benchmark.
